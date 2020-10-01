@@ -1,4 +1,4 @@
-//C Program that performs basic Arithemtic operations usin functions.
+//C Program that performs basic Arithemtic operations using functions.
 
 #include<stdio.h>
 
